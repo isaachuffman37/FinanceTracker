@@ -1,0 +1,15 @@
+C:\School\Finance Tracker\FinanceTracker\bin\Debug\net7.0\FinanceTracker.exe
+C:\School\Finance Tracker\FinanceTracker\bin\Debug\net7.0\FinanceTracker.deps.json
+C:\School\Finance Tracker\FinanceTracker\bin\Debug\net7.0\FinanceTracker.runtimeconfig.json
+C:\School\Finance Tracker\FinanceTracker\bin\Debug\net7.0\FinanceTracker.dll
+C:\School\Finance Tracker\FinanceTracker\bin\Debug\net7.0\FinanceTracker.pdb
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.csproj.AssemblyReference.cache
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.AssemblyInfoInputs.cache
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.AssemblyInfo.cs
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.csproj.CoreCompileInputs.cache
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.dll
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\refint\FinanceTracker.dll
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.pdb
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\FinanceTracker.genruntimeconfig.cache
+C:\School\Finance Tracker\FinanceTracker\obj\Debug\net7.0\ref\FinanceTracker.dll

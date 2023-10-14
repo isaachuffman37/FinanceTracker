@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\School\\Finance Tracker\\FinanceTracker\\FinalProject.csproj",
-      "projectName": "FinalProject",
-      "projectPath": "C:\\School\\Finance Tracker\\FinanceTracker\\FinalProject.csproj",
+      "projectUniqueName": "C:\\School\\Finance Tracker\\FinanceTracker\\FinanceTracker.csproj",
+      "projectName": "FinanceTracker",
+      "projectPath": "C:\\School\\Finance Tracker\\FinanceTracker\\FinanceTracker.csproj",
       "packagesPath": "C:\\Users\\Isaac\\.nuget\\packages\\",
       "outputPath": "C:\\School\\Finance Tracker\\FinanceTracker\\obj\\",
       "projectStyle": "PackageReference",
